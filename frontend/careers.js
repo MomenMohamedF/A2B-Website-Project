@@ -1,0 +1,1 @@
+A2B.form('career-form','/api/applications','career','ابعت طلبك ↗');

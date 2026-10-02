@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790865192077,
+      "tag": "0000_tearful_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790866270975,
+      "tag": "0001_overconfident_echo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790871160680,
+      "tag": "0002_public_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790934649207,
+      "tag": "0003_curvy_exiles",
+      "breakpoints": true
+    }
+  ]
+}

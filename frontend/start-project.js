@@ -1,0 +1,1 @@
+A2B.form('project-form','/api/inquiries','project','ابعت تفاصيل مشروعك ↗');

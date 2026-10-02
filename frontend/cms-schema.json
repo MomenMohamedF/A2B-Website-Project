@@ -1,0 +1,1706 @@
+[
+  {
+    "key": "home-0-text-0",
+    "page": "home",
+    "element": "home-0",
+    "index": 0,
+    "kind": "text",
+    "label": "انتقل إلى الأعمال"
+  },
+  {
+    "key": "home-3-aria-label",
+    "page": "home",
+    "element": "home-3",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "A2B الرئيسية"
+  },
+  {
+    "key": "home-4-alt",
+    "page": "home",
+    "element": "home-4",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "A2B Marketing Agency"
+  },
+  {
+    "key": "home-5-aria-label",
+    "page": "home",
+    "element": "home-5",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "التنقل الرئيسي"
+  },
+  {
+    "key": "home-6-text-0",
+    "page": "home",
+    "element": "home-6",
+    "index": 0,
+    "kind": "text",
+    "label": "أعمالنا"
+  },
+  {
+    "key": "home-7-text-0",
+    "page": "home",
+    "element": "home-7",
+    "index": 0,
+    "kind": "text",
+    "label": "نتائجنا"
+  },
+  {
+    "key": "home-8-text-0",
+    "page": "home",
+    "element": "home-8",
+    "index": 0,
+    "kind": "text",
+    "label": "انضم لفريقنا"
+  },
+  {
+    "key": "home-9-text-0",
+    "page": "home",
+    "element": "home-9",
+    "index": 0,
+    "kind": "text",
+    "label": "تواصل معنا"
+  },
+  {
+    "key": "home-10-text-0",
+    "page": "home",
+    "element": "home-10",
+    "index": 0,
+    "kind": "text",
+    "label": "ابدأ مشروعك ↗"
+  },
+  {
+    "key": "home-14-text-0",
+    "page": "home",
+    "element": "home-14",
+    "index": 0,
+    "kind": "text",
+    "label": "CREATIVE MINDS. REAL IMPACT."
+  },
+  {
+    "key": "home-15-text-0",
+    "page": "home",
+    "element": "home-15",
+    "index": 0,
+    "kind": "text",
+    "label": "من رؤية"
+  },
+  {
+    "key": "home-15-text-2",
+    "page": "home",
+    "element": "home-15",
+    "index": 2,
+    "kind": "text",
+    "label": "إلى"
+  },
+  {
+    "key": "home-17-text-0",
+    "page": "home",
+    "element": "home-17",
+    "index": 0,
+    "kind": "text",
+    "label": "تأثير."
+  },
+  {
+    "key": "home-18-text-0",
+    "page": "home",
+    "element": "home-18",
+    "index": 0,
+    "kind": "text",
+    "label": "فكرة توقف التمرير. تصميم يثبت في الذاكرة. وحملة تقرّب البراند من "
+  },
+  {
+    "key": "home-20-text-0",
+    "page": "home",
+    "element": "home-20",
+    "index": 0,
+    "kind": "text",
+    "label": "استكشف أعمالنا"
+  },
+  {
+    "key": "home-21-text-0",
+    "page": "home",
+    "element": "home-21",
+    "index": 0,
+    "kind": "text",
+    "label": "شوف نتائج الحملات"
+  },
+  {
+    "key": "home-24-alt",
+    "page": "home",
+    "element": "home-24",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "شخصية A2B الإبداعية بألوان الأحمر والأبيض"
+  },
+  {
+    "key": "home-30-text-0",
+    "page": "home",
+    "element": "home-30",
+    "index": 0,
+    "kind": "text",
+    "label": "عقارات"
+  },
+  {
+    "key": "home-31-text-0",
+    "page": "home",
+    "element": "home-31",
+    "index": 0,
+    "kind": "text",
+    "label": "منتجات"
+  },
+  {
+    "key": "home-32-text-0",
+    "page": "home",
+    "element": "home-32",
+    "index": 0,
+    "kind": "text",
+    "label": "خدمات طبية"
+  },
+  {
+    "key": "home-33-text-0",
+    "page": "home",
+    "element": "home-33",
+    "index": 0,
+    "kind": "text",
+    "label": "سياحة وسفر"
+  },
+  {
+    "key": "home-37-text-0",
+    "page": "home",
+    "element": "home-37",
+    "index": 0,
+    "kind": "text",
+    "label": "01 / WHAT WE DO"
+  },
+  {
+    "key": "home-38-text-0",
+    "page": "home",
+    "element": "home-38",
+    "index": 0,
+    "kind": "text",
+    "label": "فكرة واضحة."
+  },
+  {
+    "key": "home-38-text-2",
+    "page": "home",
+    "element": "home-38",
+    "index": 2,
+    "kind": "text",
+    "label": "تنفيذ له هدف."
+  },
+  {
+    "key": "home-40-text-0",
+    "page": "home",
+    "element": "home-40",
+    "index": 0,
+    "kind": "text",
+    "label": "بنربط المحتوى والتصميم والإعلان برسالة البراند والجمهور اللي عايز"
+  },
+  {
+    "key": "home-62-text-0",
+    "page": "home",
+    "element": "home-62",
+    "index": 0,
+    "kind": "text",
+    "label": "02 / CAMPAIGN PERFORMANCE"
+  },
+  {
+    "key": "home-63-text-0",
+    "page": "home",
+    "element": "home-63",
+    "index": 0,
+    "kind": "text",
+    "label": "الإبداع يشدّ العين."
+  },
+  {
+    "key": "home-65-text-0",
+    "page": "home",
+    "element": "home-65",
+    "index": 0,
+    "kind": "text",
+    "label": "والنتيجة تثبت الشغل."
+  },
+  {
+    "key": "home-66-text-0",
+    "page": "home",
+    "element": "home-66",
+    "index": 0,
+    "kind": "text",
+    "label": "نماذج من أداء الحملات، مع نوع النتيجة وتكلفتها ولقطة التقرير الأص"
+  },
+  {
+    "key": "home-68-text-0",
+    "page": "home",
+    "element": "home-68",
+    "index": 0,
+    "kind": "text",
+    "label": "الأرقام كما ظهرت في لقطات مدير إعلانات Meta. كل بطاقة تخص حملة مس"
+  },
+  {
+    "key": "home-72-text-0",
+    "page": "home",
+    "element": "home-72",
+    "index": 0,
+    "kind": "text",
+    "label": "03 / SELECTED WORK"
+  },
+  {
+    "key": "home-73-text-0",
+    "page": "home",
+    "element": "home-73",
+    "index": 0,
+    "kind": "text",
+    "label": "لكل براند،"
+  },
+  {
+    "key": "home-73-text-2",
+    "page": "home",
+    "element": "home-73",
+    "index": 2,
+    "kind": "text",
+    "label": "حكاية تستحق تتشاف."
+  },
+  {
+    "key": "home-75-text-0",
+    "page": "home",
+    "element": "home-75",
+    "index": 0,
+    "kind": "text",
+    "label": "مشروعات متنوعة، ورسالة بصرية مصممة لنشاط كل عميل. افتح المشروع وا"
+  },
+  {
+    "key": "home-80-text-0",
+    "page": "home",
+    "element": "home-80",
+    "index": 0,
+    "kind": "text",
+    "label": "YOUR NEXT MOVE"
+  },
+  {
+    "key": "home-81-text-0",
+    "page": "home",
+    "element": "home-81",
+    "index": 0,
+    "kind": "text",
+    "label": "خلّي مشروعك"
+  },
+  {
+    "key": "home-81-text-2",
+    "page": "home",
+    "element": "home-81",
+    "index": 2,
+    "kind": "text",
+    "label": "حكايتنا الجاية."
+  },
+  {
+    "key": "home-83-text-0",
+    "page": "home",
+    "element": "home-83",
+    "index": 0,
+    "kind": "text",
+    "label": "احكيلنا عن نشاطك والهدف اللي عايز توصله."
+  },
+  {
+    "key": "home-85-text-0",
+    "page": "home",
+    "element": "home-85",
+    "index": 0,
+    "kind": "text",
+    "label": "ابدأ محادثة واتساب"
+  },
+  {
+    "key": "home-86-text-0",
+    "page": "home",
+    "element": "home-86",
+    "index": 0,
+    "kind": "text",
+    "label": "خلّينا نشتغل مع بعض ↗"
+  },
+  {
+    "key": "home-87-text-0",
+    "page": "home",
+    "element": "home-87",
+    "index": 0,
+    "kind": "text",
+    "label": "تحميل البورتفوليو PDF"
+  },
+  {
+    "key": "home-93-text-0",
+    "page": "home",
+    "element": "home-93",
+    "index": 0,
+    "kind": "text",
+    "label": "Facebook"
+  },
+  {
+    "key": "home-94-text-0",
+    "page": "home",
+    "element": "home-94",
+    "index": 0,
+    "kind": "text",
+    "label": "Instagram"
+  },
+  {
+    "key": "home-97-text-0",
+    "page": "home",
+    "element": "home-97",
+    "index": 0,
+    "kind": "text",
+    "label": "© 2026 · أعمال مختارة"
+  },
+  {
+    "key": "home-101-text-0",
+    "page": "home",
+    "element": "home-101",
+    "index": 0,
+    "kind": "text",
+    "label": "A2B / PROJECT VIEW"
+  },
+  {
+    "key": "home-103-text-0",
+    "page": "home",
+    "element": "home-103",
+    "index": 0,
+    "kind": "text",
+    "label": "إغلاق ×"
+  },
+  {
+    "key": "home-103-aria-label",
+    "page": "home",
+    "element": "home-103",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "إغلاق العرض"
+  },
+  {
+    "key": "home-111-text-0",
+    "page": "home",
+    "element": "home-111",
+    "index": 0,
+    "kind": "text",
+    "label": "السابق"
+  },
+  {
+    "key": "home-113-text-0",
+    "page": "home",
+    "element": "home-113",
+    "index": 0,
+    "kind": "text",
+    "label": "التالي"
+  },
+  {
+    "key": "home-115-text-0",
+    "page": "home",
+    "element": "home-115",
+    "index": 0,
+    "kind": "text",
+    "label": "اعمل مشروعك مع A2B"
+  },
+  {
+    "key": "careers-2-aria-label",
+    "page": "careers",
+    "element": "careers-2",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "A2B الرئيسية"
+  },
+  {
+    "key": "careers-3-alt",
+    "page": "careers",
+    "element": "careers-3",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "A2B Marketing Agency"
+  },
+  {
+    "key": "careers-4-aria-label",
+    "page": "careers",
+    "element": "careers-4",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "التنقل الرئيسي"
+  },
+  {
+    "key": "careers-5-text-0",
+    "page": "careers",
+    "element": "careers-5",
+    "index": 0,
+    "kind": "text",
+    "label": "أعمالنا"
+  },
+  {
+    "key": "careers-6-text-0",
+    "page": "careers",
+    "element": "careers-6",
+    "index": 0,
+    "kind": "text",
+    "label": "نتائجنا"
+  },
+  {
+    "key": "careers-7-text-0",
+    "page": "careers",
+    "element": "careers-7",
+    "index": 0,
+    "kind": "text",
+    "label": "انضم لفريقنا"
+  },
+  {
+    "key": "careers-8-text-0",
+    "page": "careers",
+    "element": "careers-8",
+    "index": 0,
+    "kind": "text",
+    "label": "تواصل معنا"
+  },
+  {
+    "key": "careers-9-text-0",
+    "page": "careers",
+    "element": "careers-9",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة للموقع ↗"
+  },
+  {
+    "key": "careers-13-text-0",
+    "page": "careers",
+    "element": "careers-13",
+    "index": 0,
+    "kind": "text",
+    "label": "GREAT WORK STARTS WITH GREAT PEOPLE."
+  },
+  {
+    "key": "careers-14-text-0",
+    "page": "careers",
+    "element": "careers-14",
+    "index": 0,
+    "kind": "text",
+    "label": "مكان لفكرتك."
+  },
+  {
+    "key": "careers-14-text-2",
+    "page": "careers",
+    "element": "careers-14",
+    "index": 2,
+    "kind": "text",
+    "label": "ومساحة لطموحك."
+  },
+  {
+    "key": "careers-16-text-0",
+    "page": "careers",
+    "element": "careers-16",
+    "index": 0,
+    "kind": "text",
+    "label": "لو بتحب الأفكار اللي بتتحوّل لشغل حقيقي، احكيلنا عن نفسك وورّينا "
+  },
+  {
+    "key": "careers-19-text-0",
+    "page": "careers",
+    "element": "careers-19",
+    "index": 0,
+    "kind": "text",
+    "label": "JOIN THE CREATIVE SIDE"
+  },
+  {
+    "key": "careers-20-text-0",
+    "page": "careers",
+    "element": "careers-20",
+    "index": 0,
+    "kind": "text",
+    "label": "شغلك ممكن يكون"
+  },
+  {
+    "key": "careers-20-text-2",
+    "page": "careers",
+    "element": "careers-20",
+    "index": 2,
+    "kind": "text",
+    "label": "جزء من حكايتنا."
+  },
+  {
+    "key": "careers-22-text-0",
+    "page": "careers",
+    "element": "careers-22",
+    "index": 0,
+    "kind": "text",
+    "label": "نستقبل طلبات الانضمام والتعاون في مجالات التسويق والتصميم والمحتو"
+  },
+  {
+    "key": "careers-24-text-0",
+    "page": "careers",
+    "element": "careers-24",
+    "index": 0,
+    "kind": "text",
+    "label": "Design"
+  },
+  {
+    "key": "careers-25-text-0",
+    "page": "careers",
+    "element": "careers-25",
+    "index": 0,
+    "kind": "text",
+    "label": "Content"
+  },
+  {
+    "key": "careers-26-text-0",
+    "page": "careers",
+    "element": "careers-26",
+    "index": 0,
+    "kind": "text",
+    "label": "Media Buying"
+  },
+  {
+    "key": "careers-27-text-0",
+    "page": "careers",
+    "element": "careers-27",
+    "index": 0,
+    "kind": "text",
+    "label": "Video"
+  },
+  {
+    "key": "careers-28-alt",
+    "page": "careers",
+    "element": "careers-28",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "شخصية A2B الإبداعية"
+  },
+  {
+    "key": "careers-30-text-0",
+    "page": "careers",
+    "element": "careers-30",
+    "index": 0,
+    "kind": "text",
+    "label": "عرّفنا بيك."
+  },
+  {
+    "key": "careers-31-text-0",
+    "page": "careers",
+    "element": "careers-31",
+    "index": 0,
+    "kind": "text",
+    "label": "الحقول بعلامة * مطلوبة. رابط أعمالك يساعدنا نتعرف على أسلوبك."
+  },
+  {
+    "key": "careers-34-text-0",
+    "page": "careers",
+    "element": "careers-34",
+    "index": 0,
+    "kind": "text",
+    "label": "الاسم بالكامل *"
+  },
+  {
+    "key": "careers-35-placeholder",
+    "page": "careers",
+    "element": "careers-35",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "اسمك"
+  },
+  {
+    "key": "careers-37-text-0",
+    "page": "careers",
+    "element": "careers-37",
+    "index": 0,
+    "kind": "text",
+    "label": "مجالك *"
+  },
+  {
+    "key": "careers-39-text-0",
+    "page": "careers",
+    "element": "careers-39",
+    "index": 0,
+    "kind": "text",
+    "label": "اختار مجال شغلك"
+  },
+  {
+    "key": "careers-40-text-0",
+    "page": "careers",
+    "element": "careers-40",
+    "index": 0,
+    "kind": "text",
+    "label": "Graphic Designer"
+  },
+  {
+    "key": "careers-41-text-0",
+    "page": "careers",
+    "element": "careers-41",
+    "index": 0,
+    "kind": "text",
+    "label": "Content Creator / Copywriter"
+  },
+  {
+    "key": "careers-42-text-0",
+    "page": "careers",
+    "element": "careers-42",
+    "index": 0,
+    "kind": "text",
+    "label": "Media Buyer"
+  },
+  {
+    "key": "careers-43-text-0",
+    "page": "careers",
+    "element": "careers-43",
+    "index": 0,
+    "kind": "text",
+    "label": "Video Editor / Motion Designer"
+  },
+  {
+    "key": "careers-44-text-0",
+    "page": "careers",
+    "element": "careers-44",
+    "index": 0,
+    "kind": "text",
+    "label": "Social Media Specialist"
+  },
+  {
+    "key": "careers-45-text-0",
+    "page": "careers",
+    "element": "careers-45",
+    "index": 0,
+    "kind": "text",
+    "label": "Account Manager"
+  },
+  {
+    "key": "careers-46-text-0",
+    "page": "careers",
+    "element": "careers-46",
+    "index": 0,
+    "kind": "text",
+    "label": "مجال آخر"
+  },
+  {
+    "key": "careers-48-text-0",
+    "page": "careers",
+    "element": "careers-48",
+    "index": 0,
+    "kind": "text",
+    "label": "البريد الإلكتروني *"
+  },
+  {
+    "key": "careers-49-placeholder",
+    "page": "careers",
+    "element": "careers-49",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "you@example.com"
+  },
+  {
+    "key": "careers-51-text-0",
+    "page": "careers",
+    "element": "careers-51",
+    "index": 0,
+    "kind": "text",
+    "label": "رقم الهاتف / واتساب *"
+  },
+  {
+    "key": "careers-52-placeholder",
+    "page": "careers",
+    "element": "careers-52",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "01xxxxxxxxx"
+  },
+  {
+    "key": "careers-54-text-0",
+    "page": "careers",
+    "element": "careers-54",
+    "index": 0,
+    "kind": "text",
+    "label": "رابط أعمالك أو سيرتك الذاتية"
+  },
+  {
+    "key": "careers-55-placeholder",
+    "page": "careers",
+    "element": "careers-55",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "https://behance.net/yourname"
+  },
+  {
+    "key": "careers-56-text-0",
+    "page": "careers",
+    "element": "careers-56",
+    "index": 0,
+    "kind": "text",
+    "label": "رابط Behance أو Drive أو LinkedIn أو موقعك."
+  },
+  {
+    "key": "careers-58-text-0",
+    "page": "careers",
+    "element": "careers-58",
+    "index": 0,
+    "kind": "text",
+    "label": "مستوى الخبرة"
+  },
+  {
+    "key": "careers-60-text-0",
+    "page": "careers",
+    "element": "careers-60",
+    "index": 0,
+    "kind": "text",
+    "label": "اختار مستوى خبرتك"
+  },
+  {
+    "key": "careers-61-text-0",
+    "page": "careers",
+    "element": "careers-61",
+    "index": 0,
+    "kind": "text",
+    "label": "طالب / متدرب"
+  },
+  {
+    "key": "careers-62-text-0",
+    "page": "careers",
+    "element": "careers-62",
+    "index": 0,
+    "kind": "text",
+    "label": "أقل من سنة"
+  },
+  {
+    "key": "careers-63-text-0",
+    "page": "careers",
+    "element": "careers-63",
+    "index": 0,
+    "kind": "text",
+    "label": "1–3 سنوات"
+  },
+  {
+    "key": "careers-64-text-0",
+    "page": "careers",
+    "element": "careers-64",
+    "index": 0,
+    "kind": "text",
+    "label": "3–5 سنوات"
+  },
+  {
+    "key": "careers-65-text-0",
+    "page": "careers",
+    "element": "careers-65",
+    "index": 0,
+    "kind": "text",
+    "label": "أكثر من 5 سنوات"
+  },
+  {
+    "key": "careers-67-text-0",
+    "page": "careers",
+    "element": "careers-67",
+    "index": 0,
+    "kind": "text",
+    "label": "المدينة"
+  },
+  {
+    "key": "careers-68-placeholder",
+    "page": "careers",
+    "element": "careers-68",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "مثلًا القاهرة"
+  },
+  {
+    "key": "careers-70-text-0",
+    "page": "careers",
+    "element": "careers-70",
+    "index": 0,
+    "kind": "text",
+    "label": "طريقة العمل المناسبة"
+  },
+  {
+    "key": "careers-72-text-0",
+    "page": "careers",
+    "element": "careers-72",
+    "index": 0,
+    "kind": "text",
+    "label": "اختار طريقة العمل"
+  },
+  {
+    "key": "careers-73-text-0",
+    "page": "careers",
+    "element": "careers-73",
+    "index": 0,
+    "kind": "text",
+    "label": "دوام كامل"
+  },
+  {
+    "key": "careers-74-text-0",
+    "page": "careers",
+    "element": "careers-74",
+    "index": 0,
+    "kind": "text",
+    "label": "دوام جزئي"
+  },
+  {
+    "key": "careers-75-text-0",
+    "page": "careers",
+    "element": "careers-75",
+    "index": 0,
+    "kind": "text",
+    "label": "فريلانس / حسب المشروع"
+  },
+  {
+    "key": "careers-76-text-0",
+    "page": "careers",
+    "element": "careers-76",
+    "index": 0,
+    "kind": "text",
+    "label": "تدريب"
+  },
+  {
+    "key": "careers-78-text-0",
+    "page": "careers",
+    "element": "careers-78",
+    "index": 0,
+    "kind": "text",
+    "label": "متاح تبدأ إمتى؟"
+  },
+  {
+    "key": "careers-79-placeholder",
+    "page": "careers",
+    "element": "careers-79",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "مثلًا فورًا أو بعد أسبوعين"
+  },
+  {
+    "key": "careers-81-text-0",
+    "page": "careers",
+    "element": "careers-81",
+    "index": 0,
+    "kind": "text",
+    "label": "احكيلنا عن خبرتك وطريقة التعاون اللي تناسبك"
+  },
+  {
+    "key": "careers-82-placeholder",
+    "page": "careers",
+    "element": "careers-82",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "خبرتك، نقاط قوتك، ومتاح دوام كامل ولا فريلانس؟"
+  },
+  {
+    "key": "careers-86-text-1",
+    "page": "careers",
+    "element": "careers-86",
+    "index": 1,
+    "kind": "text",
+    "label": "أوافق على استخدام بياناتي لمراجعة طلب الانضمام والتواصل معي بخصوص"
+  },
+  {
+    "key": "careers-88-text-0",
+    "page": "careers",
+    "element": "careers-88",
+    "index": 0,
+    "kind": "text",
+    "label": "ابعت طلبك ↗"
+  },
+  {
+    "key": "careers-91-text-0",
+    "page": "careers",
+    "element": "careers-91",
+    "index": 0,
+    "kind": "text",
+    "label": "A2B MARKETING AGENCY"
+  },
+  {
+    "key": "careers-92-text-0",
+    "page": "careers",
+    "element": "careers-92",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة للموقع"
+  },
+  {
+    "key": "careers-93-text-0",
+    "page": "careers",
+    "element": "careers-93",
+    "index": 0,
+    "kind": "text",
+    "label": "© 2026"
+  },
+  {
+    "key": "client-2-aria-label",
+    "page": "client",
+    "element": "client-2",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "A2B الرئيسية"
+  },
+  {
+    "key": "client-3-alt",
+    "page": "client",
+    "element": "client-3",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "A2B Marketing Agency"
+  },
+  {
+    "key": "client-4-aria-label",
+    "page": "client",
+    "element": "client-4",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "التنقل الرئيسي"
+  },
+  {
+    "key": "client-5-text-0",
+    "page": "client",
+    "element": "client-5",
+    "index": 0,
+    "kind": "text",
+    "label": "أعمالنا"
+  },
+  {
+    "key": "client-6-text-0",
+    "page": "client",
+    "element": "client-6",
+    "index": 0,
+    "kind": "text",
+    "label": "نتائجنا"
+  },
+  {
+    "key": "client-7-text-0",
+    "page": "client",
+    "element": "client-7",
+    "index": 0,
+    "kind": "text",
+    "label": "انضم لفريقنا"
+  },
+  {
+    "key": "client-8-text-0",
+    "page": "client",
+    "element": "client-8",
+    "index": 0,
+    "kind": "text",
+    "label": "تواصل معنا"
+  },
+  {
+    "key": "client-9-text-0",
+    "page": "client",
+    "element": "client-9",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة للموقع ↗"
+  },
+  {
+    "key": "client-13-text-0",
+    "page": "client",
+    "element": "client-13",
+    "index": 0,
+    "kind": "text",
+    "label": "LET'S MAKE YOUR NEXT BIG MOVE."
+  },
+  {
+    "key": "client-14-text-0",
+    "page": "client",
+    "element": "client-14",
+    "index": 0,
+    "kind": "text",
+    "label": "فكرتك تستحق"
+  },
+  {
+    "key": "client-14-text-2",
+    "page": "client",
+    "element": "client-14",
+    "index": 2,
+    "kind": "text",
+    "label": "بداية قوية."
+  },
+  {
+    "key": "client-16-text-0",
+    "page": "client",
+    "element": "client-16",
+    "index": 0,
+    "kind": "text",
+    "label": "احكيلنا عن البراند والهدف. نبدأ نفكر معاك في الخطوة اللي تناسب مش"
+  },
+  {
+    "key": "client-19-text-0",
+    "page": "client",
+    "element": "client-19",
+    "index": 0,
+    "kind": "text",
+    "label": "YOUR BRAND. OUR NEXT STORY."
+  },
+  {
+    "key": "client-20-text-0",
+    "page": "client",
+    "element": "client-20",
+    "index": 0,
+    "kind": "text",
+    "label": "من أول فكرة،"
+  },
+  {
+    "key": "client-20-text-2",
+    "page": "client",
+    "element": "client-20",
+    "index": 2,
+    "kind": "text",
+    "label": "لأثر يتشاف."
+  },
+  {
+    "key": "client-22-text-0",
+    "page": "client",
+    "element": "client-22",
+    "index": 0,
+    "kind": "text",
+    "label": "شاركنا تفاصيل نشاطك، وهنراجع طلبك ونتواصل معاك عشان نفهم احتياجات"
+  },
+  {
+    "key": "client-24-text-0",
+    "page": "client",
+    "element": "client-24",
+    "index": 0,
+    "kind": "text",
+    "label": "Strategy"
+  },
+  {
+    "key": "client-25-text-0",
+    "page": "client",
+    "element": "client-25",
+    "index": 0,
+    "kind": "text",
+    "label": "Creative"
+  },
+  {
+    "key": "client-26-text-0",
+    "page": "client",
+    "element": "client-26",
+    "index": 0,
+    "kind": "text",
+    "label": "Performance"
+  },
+  {
+    "key": "client-27-alt",
+    "page": "client",
+    "element": "client-27",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "شخصية A2B"
+  },
+  {
+    "key": "client-29-text-0",
+    "page": "client",
+    "element": "client-29",
+    "index": 0,
+    "kind": "text",
+    "label": "نتعرف على مشروعك."
+  },
+  {
+    "key": "client-30-text-0",
+    "page": "client",
+    "element": "client-30",
+    "index": 0,
+    "kind": "text",
+    "label": "الحقول بعلامة * مطلوبة."
+  },
+  {
+    "key": "client-33-text-0",
+    "page": "client",
+    "element": "client-33",
+    "index": 0,
+    "kind": "text",
+    "label": "اسمك *"
+  },
+  {
+    "key": "client-36-text-0",
+    "page": "client",
+    "element": "client-36",
+    "index": 0,
+    "kind": "text",
+    "label": "اسم البراند / الشركة *"
+  },
+  {
+    "key": "client-39-text-0",
+    "page": "client",
+    "element": "client-39",
+    "index": 0,
+    "kind": "text",
+    "label": "البريد الإلكتروني *"
+  },
+  {
+    "key": "client-40-placeholder",
+    "page": "client",
+    "element": "client-40",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "you@company.com"
+  },
+  {
+    "key": "client-42-text-0",
+    "page": "client",
+    "element": "client-42",
+    "index": 0,
+    "kind": "text",
+    "label": "الهاتف / واتساب *"
+  },
+  {
+    "key": "client-43-placeholder",
+    "page": "client",
+    "element": "client-43",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "01xxxxxxxxx"
+  },
+  {
+    "key": "client-45-text-0",
+    "page": "client",
+    "element": "client-45",
+    "index": 0,
+    "kind": "text",
+    "label": "مجال نشاطك *"
+  },
+  {
+    "key": "client-46-placeholder",
+    "page": "client",
+    "element": "client-46",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "عقارات، عيادة، منتجات…"
+  },
+  {
+    "key": "client-48-text-0",
+    "page": "client",
+    "element": "client-48",
+    "index": 0,
+    "kind": "text",
+    "label": "محتاج نساعدك في إيه؟ *"
+  },
+  {
+    "key": "client-50-text-0",
+    "page": "client",
+    "element": "client-50",
+    "index": 0,
+    "kind": "text",
+    "label": "اختار الخدمة"
+  },
+  {
+    "key": "client-51-text-0",
+    "page": "client",
+    "element": "client-51",
+    "index": 0,
+    "kind": "text",
+    "label": "إدارة سوشيال ميديا"
+  },
+  {
+    "key": "client-52-text-0",
+    "page": "client",
+    "element": "client-52",
+    "index": 0,
+    "kind": "text",
+    "label": "تصميمات وهوية بصرية"
+  },
+  {
+    "key": "client-53-text-0",
+    "page": "client",
+    "element": "client-53",
+    "index": 0,
+    "kind": "text",
+    "label": "حملات إعلانية / Media Buying"
+  },
+  {
+    "key": "client-54-text-0",
+    "page": "client",
+    "element": "client-54",
+    "index": 0,
+    "kind": "text",
+    "label": "محتوى وفيديو"
+  },
+  {
+    "key": "client-55-text-0",
+    "page": "client",
+    "element": "client-55",
+    "index": 0,
+    "kind": "text",
+    "label": "خطة تسويق متكاملة"
+  },
+  {
+    "key": "client-56-text-0",
+    "page": "client",
+    "element": "client-56",
+    "index": 0,
+    "kind": "text",
+    "label": "محتاج استشارة"
+  },
+  {
+    "key": "client-58-text-0",
+    "page": "client",
+    "element": "client-58",
+    "index": 0,
+    "kind": "text",
+    "label": "الميزانية الشهرية المتوقعة · اختياري"
+  },
+  {
+    "key": "client-60-text-0",
+    "page": "client",
+    "element": "client-60",
+    "index": 0,
+    "kind": "text",
+    "label": "خلّينا نتكلم عنها"
+  },
+  {
+    "key": "client-61-text-0",
+    "page": "client",
+    "element": "client-61",
+    "index": 0,
+    "kind": "text",
+    "label": "أقل من 10,000 جنيه"
+  },
+  {
+    "key": "client-62-text-0",
+    "page": "client",
+    "element": "client-62",
+    "index": 0,
+    "kind": "text",
+    "label": "10,000–25,000 جنيه"
+  },
+  {
+    "key": "client-63-text-0",
+    "page": "client",
+    "element": "client-63",
+    "index": 0,
+    "kind": "text",
+    "label": "25,000–50,000 جنيه"
+  },
+  {
+    "key": "client-64-text-0",
+    "page": "client",
+    "element": "client-64",
+    "index": 0,
+    "kind": "text",
+    "label": "أكثر من 50,000 جنيه"
+  },
+  {
+    "key": "client-66-text-0",
+    "page": "client",
+    "element": "client-66",
+    "index": 0,
+    "kind": "text",
+    "label": "هدفك وتفاصيل تحب تشاركها"
+  },
+  {
+    "key": "client-67-placeholder",
+    "page": "client",
+    "element": "client-67",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "عايز تزيد المبيعات؟ تطلق براند جديد؟ احكيلنا."
+  },
+  {
+    "key": "client-71-text-1",
+    "page": "client",
+    "element": "client-71",
+    "index": 1,
+    "kind": "text",
+    "label": "أوافق على استخدام بياناتي للتواصل معي بخصوص المشروع."
+  },
+  {
+    "key": "client-73-text-0",
+    "page": "client",
+    "element": "client-73",
+    "index": 0,
+    "kind": "text",
+    "label": "ابعت تفاصيل مشروعك ↗"
+  },
+  {
+    "key": "client-76-text-0",
+    "page": "client",
+    "element": "client-76",
+    "index": 0,
+    "kind": "text",
+    "label": "A2B MARKETING AGENCY"
+  },
+  {
+    "key": "client-77-text-0",
+    "page": "client",
+    "element": "client-77",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة للموقع"
+  },
+  {
+    "key": "client-78-text-0",
+    "page": "client",
+    "element": "client-78",
+    "index": 0,
+    "kind": "text",
+    "label": "© 2026"
+  },
+  {
+    "key": "account-2-aria-label",
+    "page": "account",
+    "element": "account-2",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "A2B الرئيسية"
+  },
+  {
+    "key": "account-3-alt",
+    "page": "account",
+    "element": "account-3",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "A2B Marketing Agency"
+  },
+  {
+    "key": "account-4-aria-label",
+    "page": "account",
+    "element": "account-4",
+    "attribute": "aria-label",
+    "kind": "attribute",
+    "label": "التنقل الرئيسي"
+  },
+  {
+    "key": "account-5-text-0",
+    "page": "account",
+    "element": "account-5",
+    "index": 0,
+    "kind": "text",
+    "label": "أعمالنا"
+  },
+  {
+    "key": "account-6-text-0",
+    "page": "account",
+    "element": "account-6",
+    "index": 0,
+    "kind": "text",
+    "label": "نتائجنا"
+  },
+  {
+    "key": "account-7-text-0",
+    "page": "account",
+    "element": "account-7",
+    "index": 0,
+    "kind": "text",
+    "label": "انضم لفريقنا"
+  },
+  {
+    "key": "account-8-text-0",
+    "page": "account",
+    "element": "account-8",
+    "index": 0,
+    "kind": "text",
+    "label": "ابدأ مشروعك"
+  },
+  {
+    "key": "account-11-text-0",
+    "page": "account",
+    "element": "account-11",
+    "index": 0,
+    "kind": "text",
+    "label": "YOUR NEXT CHAPTER STARTS HERE."
+  },
+  {
+    "key": "account-12-text-0",
+    "page": "account",
+    "element": "account-12",
+    "index": 0,
+    "kind": "text",
+    "label": "فكرتك."
+  },
+  {
+    "key": "account-12-text-2",
+    "page": "account",
+    "element": "account-12",
+    "index": 2,
+    "kind": "text",
+    "label": "خطوتك الجاية."
+  },
+  {
+    "key": "account-14-text-0",
+    "page": "account",
+    "element": "account-14",
+    "index": 0,
+    "kind": "text",
+    "label": "حساب واحد علشان تبدأ مشروعك معانا أو تشاركنا شغلك وتنضم لفريق A2B"
+  },
+  {
+    "key": "account-15-alt",
+    "page": "account",
+    "element": "account-15",
+    "attribute": "alt",
+    "kind": "attribute",
+    "label": "شخصية A2B"
+  },
+  {
+    "key": "account-18-text-0",
+    "page": "account",
+    "element": "account-18",
+    "index": 0,
+    "kind": "text",
+    "label": "تسجيل الدخول"
+  },
+  {
+    "key": "account-19-text-0",
+    "page": "account",
+    "element": "account-19",
+    "index": 0,
+    "kind": "text",
+    "label": "حساب جديد"
+  },
+  {
+    "key": "account-20-text-0",
+    "page": "account",
+    "element": "account-20",
+    "index": 0,
+    "kind": "text",
+    "label": "أهلًا بيك تاني."
+  },
+  {
+    "key": "account-21-text-0",
+    "page": "account",
+    "element": "account-21",
+    "index": 0,
+    "kind": "text",
+    "label": "كمّل حكايتك مع A2B."
+  },
+  {
+    "key": "account-24-text-0",
+    "page": "account",
+    "element": "account-24",
+    "index": 0,
+    "kind": "text",
+    "label": "الإيميل أو رقم التليفون"
+  },
+  {
+    "key": "account-27-text-0",
+    "page": "account",
+    "element": "account-27",
+    "index": 0,
+    "kind": "text",
+    "label": "كلمة المرور"
+  },
+  {
+    "key": "account-29-text-0",
+    "page": "account",
+    "element": "account-29",
+    "index": 0,
+    "kind": "text",
+    "label": "دخول ↗"
+  },
+  {
+    "key": "account-30-text-0",
+    "page": "account",
+    "element": "account-30",
+    "index": 0,
+    "kind": "text",
+    "label": "نسيت كلمة المرور؟"
+  },
+  {
+    "key": "account-33-text-0",
+    "page": "account",
+    "element": "account-33",
+    "index": 0,
+    "kind": "text",
+    "label": "الاسم بالكامل"
+  },
+  {
+    "key": "account-36-text-0",
+    "page": "account",
+    "element": "account-36",
+    "index": 0,
+    "kind": "text",
+    "label": "الإيميل"
+  },
+  {
+    "key": "account-39-text-0",
+    "page": "account",
+    "element": "account-39",
+    "index": 0,
+    "kind": "text",
+    "label": "رقم التليفون"
+  },
+  {
+    "key": "account-40-placeholder",
+    "page": "account",
+    "element": "account-40",
+    "attribute": "placeholder",
+    "kind": "attribute",
+    "label": "01xxxxxxxxx أو رقم مع كود البلد"
+  },
+  {
+    "key": "account-41-text-0",
+    "page": "account",
+    "element": "account-41",
+    "index": 0,
+    "kind": "text",
+    "label": "كود استرجاع الحساب هيوصلك على الرقم ده."
+  },
+  {
+    "key": "account-43-text-0",
+    "page": "account",
+    "element": "account-43",
+    "index": 0,
+    "kind": "text",
+    "label": "كلمة المرور"
+  },
+  {
+    "key": "account-45-text-0",
+    "page": "account",
+    "element": "account-45",
+    "index": 0,
+    "kind": "text",
+    "label": "10 أحرف على الأقل."
+  },
+  {
+    "key": "account-46-text-1",
+    "page": "account",
+    "element": "account-46",
+    "index": 1,
+    "kind": "text",
+    "label": "أوافق على حفظ بيانات حسابي والتواصل معي بخصوص طلباتي."
+  },
+  {
+    "key": "account-48-text-0",
+    "page": "account",
+    "element": "account-48",
+    "index": 0,
+    "kind": "text",
+    "label": "اعمل حسابك ↗"
+  },
+  {
+    "key": "account-51-text-0",
+    "page": "account",
+    "element": "account-51",
+    "index": 0,
+    "kind": "text",
+    "label": "الإيميل أو التليفون المسجّل"
+  },
+  {
+    "key": "account-53-text-0",
+    "page": "account",
+    "element": "account-53",
+    "index": 0,
+    "kind": "text",
+    "label": "هنبعت كود SMS على رقم التليفون المرتبط بحسابك، حتى لو كتبت الإيمي"
+  },
+  {
+    "key": "account-54-text-0",
+    "page": "account",
+    "element": "account-54",
+    "index": 0,
+    "kind": "text",
+    "label": "ابعت كود التحقق ↗"
+  },
+  {
+    "key": "account-55-text-0",
+    "page": "account",
+    "element": "account-55",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة لتسجيل الدخول"
+  },
+  {
+    "key": "account-58-text-0",
+    "page": "account",
+    "element": "account-58",
+    "index": 0,
+    "kind": "text",
+    "label": "كود التحقق"
+  },
+  {
+    "key": "account-60-text-0",
+    "page": "account",
+    "element": "account-60",
+    "index": 0,
+    "kind": "text",
+    "label": "اكتب الكود اللي وصلك على التليفون. صالح لمدة 10 دقائق."
+  },
+  {
+    "key": "account-61-text-0",
+    "page": "account",
+    "element": "account-61",
+    "index": 0,
+    "kind": "text",
+    "label": "تأكيد الكود ↗"
+  },
+  {
+    "key": "account-62-text-0",
+    "page": "account",
+    "element": "account-62",
+    "index": 0,
+    "kind": "text",
+    "label": "طلب كود جديد"
+  },
+  {
+    "key": "account-65-text-0",
+    "page": "account",
+    "element": "account-65",
+    "index": 0,
+    "kind": "text",
+    "label": "كلمة المرور الحالية"
+  },
+  {
+    "key": "account-68-text-0",
+    "page": "account",
+    "element": "account-68",
+    "index": 0,
+    "kind": "text",
+    "label": "كلمة مرور جديدة"
+  },
+  {
+    "key": "account-70-text-0",
+    "page": "account",
+    "element": "account-70",
+    "index": 0,
+    "kind": "text",
+    "label": "حفظ كلمة المرور ↗"
+  },
+  {
+    "key": "account-74-text-0",
+    "page": "account",
+    "element": "account-74",
+    "index": 0,
+    "kind": "text",
+    "label": "ابدأ مشروعك ↗"
+  },
+  {
+    "key": "account-75-text-0",
+    "page": "account",
+    "element": "account-75",
+    "index": 0,
+    "kind": "text",
+    "label": "انضم لفريقنا ↗"
+  },
+  {
+    "key": "account-76-text-0",
+    "page": "account",
+    "element": "account-76",
+    "index": 0,
+    "kind": "text",
+    "label": "تغيير كلمة المرور"
+  },
+  {
+    "key": "account-77-text-0",
+    "page": "account",
+    "element": "account-77",
+    "index": 0,
+    "kind": "text",
+    "label": "تسجيل الخروج"
+  },
+  {
+    "key": "account-80-text-0",
+    "page": "account",
+    "element": "account-80",
+    "index": 0,
+    "kind": "text",
+    "label": "A2B MARKETING AGENCY"
+  },
+  {
+    "key": "account-81-text-0",
+    "page": "account",
+    "element": "account-81",
+    "index": 0,
+    "kind": "text",
+    "label": "العودة للموقع"
+  },
+  {
+    "key": "account-82-text-0",
+    "page": "account",
+    "element": "account-82",
+    "index": 0,
+    "kind": "text",
+    "label": "© 2026"
+  }
+]
